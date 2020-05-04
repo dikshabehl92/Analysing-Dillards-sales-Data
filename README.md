@@ -10,4 +10,4 @@ I created a structured Pyramid Analysis Plan to understand the computations behi
 2. Whether the characteristics of the geographic location in which a store resides correlates with the sales performance of the store.
 3. Analyzing monthly (or seasonal) sales effects
 
-
+Due to confidentiality purposes, I won't be able to share the data. I'll post my queries along with descriptions of what I tried to do with the query.
