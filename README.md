@@ -1,5 +1,5 @@
 # Analysing-Dillards-sales-Data
-Analysing Dillards sales Data to study customer purchasing patterns
+Analysing Dillards sales data to study customer purchasing patterns
 
 As part of this mini project, I translated analysis questions into SQL queries.
 
