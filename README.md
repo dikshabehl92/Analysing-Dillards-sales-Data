@@ -1,7 +1,7 @@
 # Analysing-Dillards-sales-Data
 Analysing Dillards sales data to study customer purchasing patterns
 
-As part of this mini project, I translated analysis questions into SQL queries.
+As part of the course - 'Managing Big Data using MySQL' offered by Duke University, I learned to translate analysis questions into SQL queries.
 
 Analysis Question: What factors affect customer purchasing at Dillards
   
